@@ -1,1 +1,3 @@
-### Code I use to process brain imaging data! 
+### Hi! I'm Emily!
+
+Neuroscientist, Researcher and Developmental Psychologist
